@@ -1,0 +1,88 @@
+import SwiftUI
+
+
+
+struct TabBarView: View {
+    @AppStorage ("Authenticated") var isAuthenticated = false
+    @State private var showingSheet = false
+    @Environment(\.dismiss) var dismissSettings
+    @State private var showingSettingsSheet = false
+    @State private var showingExportSheet = false
+    @State private var selectedIndex = 0
+    let tabbarItems = ["house.fill", "at", "bell.fill", "person.fill"] // System icon names
+
+    var body: some View {
+        ZStack {
+            Color(.systemGray6).edgesIgnoringSafeArea(.all) // Background color
+
+            // Content views for each tab
+            switch selectedIndex {
+            case 0:
+                PostView()
+            case 1:
+               Text("acc tab")
+            case 2:
+                NotificationsView()
+            case 3:
+                AccountView()
+            default:
+                PostView()
+            }
+
+            VStack {
+                Spacer()
+                    CustomTabBar(selectedIndex: $selectedIndex, items: tabbarItems)
+                
+            }
+            .toolbar {
+                ToolbarItem {
+                    
+                }
+            }
+        }
+    }
+}
+
+struct CustomTabBar: View {
+     @Environment(\.colorScheme) var colorScheme
+    @Binding var selectedIndex: Int
+    var items: [String]
+
+    var body: some View {
+        HStack {
+            ForEach(items.indices, id: \.self) { index in
+                Button(action: {
+                    withAnimation(.snappy) {
+                        selectedIndex = index
+                    }
+                }) {
+                    VStack {
+                        Image(systemName: items[index])
+                            .font(.system(size: 26))
+                            .foregroundColor(selectedIndex == index ? (colorScheme == .dark ? Color.white : Color.black) : .gray)
+                       
+                    }
+                    .padding(.vertical, 15)
+                }
+                .hoverEffect(.lift)
+                .frame(maxWidth: 120)
+            }
+        }
+        .background(BlurView())
+        .overlay( /// apply a rounded border
+            RoundedRectangle(cornerRadius: 15)
+                .stroke((colorScheme == .dark ? Color.white : Color.black), lineWidth: 2)
+        )
+        .cornerRadius(15)
+        .padding(.horizontal, 15)
+        .padding(.bottom, 8)
+        
+    }
+}
+
+struct ContentView_Previews: PreviewProvider {
+    static var previews: some View {
+        TabBarView()
+    }
+}
+

@@ -1,0 +1,86 @@
+**Last Updated: May 15, 2025**
+
+1. #Acceptance of Terms
+
+By accessing or using [Your Social Media App Name] (the "App"), you agree to be bound by these Terms of Service ("Terms"). If you do not agree to these Terms, do not access or use the App.
+
+2. Description of the App
+
+[Your Social Media App Name] is a social media platform that allows users to [describe the core functionality, e.g., connect with friends, share updates, post photos and videos, join communities, etc.].
+
+3. User Accounts
+
+> Account Creation: To use certain features of the App, you may need to create an account. You agree to provide accurate and complete information during the registration process. You are responsible for maintaining the confidentiality of your account credentials.
+> Age Restrictions: This app has been designed for persons of age 13 and older. By creating an account, you represent that you meet the applicable age requirements.
+* Account Security: You are responsible for all activities that occur under your account. Notify us immediately of any unauthorized access to or use of your account.
+* Account Termination: We reserve the right to suspend or terminate your account at any time, with or without notice, for violations of these Terms or for any other reason at our sole discretion. You may also terminate your account at any time.
+
+4. User Content
+
+* Your Content: You are responsible for the content you post, upload, share, or otherwise make available on the App ("User Content"). You represent and warrant that you have all necessary rights to your User Content and that it does not violate these Terms or the rights of any third party.
+* Our License to Your Content: By posting User Content, you grant [Your Company Name] a non-exclusive, transferable, sub-licensable, royalty-free, worldwide license to use, reproduce, modify, adapt, publish, translate, create derivative works from, distribute, and display your User Content in connection with the operation and promotion of the App. This license ends when you delete your User Content or your account, except to the extent that your User Content has been shared with others and they have not deleted it.
+* Content Standards: You agree not to post User Content that is:
+    * Illegal, harmful, threatening, abusive, harassing, defamatory, vulgar, obscene, libelous, invasive of another's privacy, hateful, or racially, ethnically, or otherwise objectionable.
+    * False, misleading, or deceptive.
+    * Infringing on the intellectual property rights of others (e.g., copyright, trademarks).
+    * Confidential or proprietary information you do not have the right to disclose.
+    * Spam, unsolicited promotions, or advertising.
+    * [Add any other specific content restrictions relevant to your App]
+* Content Monitoring: We have the right, but not the obligation, to monitor, review, and remove User Content that we believe violates these Terms or is otherwise objectionable. We are not responsible for the User Content posted by users.
+
+5. User Conduct
+
+In addition to the content standards above, you agree not to:
+
+* Use the App to bully, harass, intimidate, or threaten other users.
+* Impersonate others or misrepresent your affiliation with any person or entity.
+* Collect or harvest any personally identifiable information from other users without their consent.
+* Use the App for any commercial purposes without our express written consent (e.g., unauthorized advertising, marketing, or sales activities).
+* Interfere with or disrupt the operation of the App or the servers and networks used to make the App available.
+* Attempt to circumvent any security measures of the App.
+* Use any robot, spider, scraper, or other automated means to access the App without our express written permission.
+* [Add any other specific prohibited behaviors relevant to your social media app]
+
+6. Intellectual Property
+
+* App Content: The App and its content (including but not limited to design, text, graphics, logos, icons, images, audio clips, video clips, software) are owned by [Your Company Name] or its licensors and are protected by copyright, trademark, and other intellectual property laws.
+* Restrictions: You may not copy, modify, distribute, sell, or lease any part of the App or its content without our prior written consent.
+
+7. Privacy
+
+Your use of the App is also governed by our Privacy Policy, which is incorporated by reference into these Terms. Please review our Privacy Policy [Link to your Privacy Policy] to understand how we collect, use, and disclose your information and the information you share with others on the App.
+
+8. Disclaimer of Warranties
+
+THE APP IS PROVIDED "AS IS" AND "AS AVAILABLE" WITHOUT WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT. WE DO NOT WARRANT THAT THE APP WILL BE UNINTERRUPTED, ERROR-FREE, SECURE, OR THAT THE CONTENT ON THE APP WILL BE ACCURATE, COMPLETE, OR RELIABLE.
+
+9. Limitation of Liability
+
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, [YOUR COMPANY NAME] SHALL NOT BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR PUNITIVE DAMAGES (INCLUDING, WITHOUT LIMITATION, DAMAGES FOR LOSS OF PROFITS, DATA, USE, GOODWILL, OR OTHER INTANGIBLE LOSSES) ARISING OUT OF OR RELATING TO YOUR USE OF OR INABILITY TO USE THE APP, INCLUDING ANY USER CONTENT, EVEN IF WE HAVE BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. OUR TOTAL LIABILITY TO YOU FOR ALL CLAIMS ARISING OUT OF OR RELATING TO THESE TERMS OR THE APP SHALL NOT EXCEED [Specify a monetary amount, e.g., $100].
+
+10. Indemnification
+
+You agree to indemnify and hold harmless [Your Company Name] and its affiliates, officers, directors, employees, and agents from and against any and all claims, liabilities, damages, losses, and expenses (including reasonable attorneys' fees) arising out of or relating to your use of the App, your User Content, your violation of these Terms, or your violation of any rights of a third party.
+
+11. Governing Law and Dispute Resolution
+
+* Governing Law: These Terms shall be governed by and construed in accordance with the laws of [State/Country], without regard to its conflict of law principles.
+* Dispute Resolution: [Specify how disputes will be resolved, e.g., through negotiation, mediation, arbitration, or in the courts of a specific jurisdiction].
+
+12. Changes to These Terms
+
+We reserve the right to modify or update these Terms at any time. We will provide notice of any material changes by [Specify how you will notify users of changes, e.g., posting the updated Terms within the App, sending an email notification]. Your continued use of the App after the effective date of any changes constitutes your acceptance of the revised Terms.
+
+13. Termination
+
+We may terminate your access to the App and your account at any time, with or without cause and without notice. You may also terminate your account at any time. Upon termination, your right to use the App will cease immediately.
+
+14. Entire Agreement
+
+These Terms constitute the entire agreement between you and Yapple regarding your use of the App and supersede all prior or contemporaneous communications and proposals, whether oral or written.
+
+15. Contact Us
+
+If you have any questions about these Terms, please contact us at:
+
+[life83002@gmail.com]
